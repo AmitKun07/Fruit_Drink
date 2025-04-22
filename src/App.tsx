@@ -32,7 +32,7 @@ import BelowBannerSection from "./components/BelowBannerSection";
 import FruitPic from "./components/FruitPic";
 import OrangePic from "./components/OrangePic";
 import Footer from "./components/Footer";
-import Cards from "./components/cards";
+import Cards from "./components/Cards";
 
 
 function App() {
